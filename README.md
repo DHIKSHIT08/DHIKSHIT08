@@ -1,73 +1,68 @@
-# `DHIKSHIT S.`
+# DHIKSHIT S.
 
-### AI/ML • Intelligent Systems • Aviation Technology
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=3" width="100%" alt="Blue divider" />
-</p>
+### AI/ML · Intelligent Systems · Aviation Technology
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems;Exploring+AI+%26+Machine+Learning;Engineering+Ideas+Into+Reality;AI+for+Aviation+%26+Beyond" alt="Developer focus" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-Artificial_Intelligence-0B1220?style=for-the-badge&logo=probot&logoColor=60A5FA" alt="AI focus" />
-  <img src="https://img.shields.io/badge/DOMAIN-Aviation_Tech-0B1220?style=for-the-badge&logo=airbus&logoColor=60A5FA" alt="Aviation technology" />
-  <img src="https://img.shields.io/badge/APPROACH-Engineering-0B1220?style=for-the-badge&logo=github&logoColor=60A5FA" alt="Engineering" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems;Exploring+AI+%26+Machine+Learning;Engineering+Ideas+Into+Reality;AI+for+Aviation+%26+Beyond" alt="Animated focus areas: building intelligent systems, exploring AI and machine learning, engineering ideas into reality, and AI for aviation" />
 </p>
 
 ---
 
-## `01` — SYSTEM PROFILE
+## About
 
-I am an Artificial Intelligence and Machine Learning student interested in designing intelligent applications, data-driven systems, and practical engineering solutions.
+I’m an Artificial Intelligence and Machine Learning student interested in intelligent applications, data-driven systems, and practical software engineering.
 
-My technical interests span machine learning, software development, intelligent automation, and the intersection of AI with aviation technology.
+I enjoy exploring ideas through hands-on projects in machine learning, automation, and web development.
 
-> **Engineering philosophy:** Understand the problem. Design the system. Build. Test. Improve.
+> **My approach:** Understand the problem. Design the system. Build. Test. Improve.
 
-## `02` — TECHNOLOGY STACK
+## Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,git,github,vscode&theme=dark" alt="Python, Java, C, Git, GitHub and VS Code" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,git,github,vscode&theme=dark" alt="Python, Java, C, HTML, CSS, JavaScript, Git, GitHub, and VS Code" />
 </p>
 
-**Areas of interest**
+## Areas of Interest
 
-`Machine Learning` · `Data Analytics` · `Intelligent Systems` · `Aviation AI`
+`Machine Learning` · `Data Analytics` · `Intelligent Systems` · `Automation` · `Aviation Technology`
 
-## `03` — PROJECT ARCHIVE
+## Selected Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>JARVIS-AI</h3>
-      <p>A personal AI assistant project exploring conversational interfaces, intelligent assistance, and desktop automation.</p>
-      <p><strong>Focus:</strong> AI · Python · Automation</p>
-      <a href="https://github.com/DHIKSHIT08/JARVIS-AI">Explore repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>MANGANESE AI</h3>
-      <p>A machine learning project exploring mineral prospectivity analysis and production prediction.</p>
-      <p><strong>Focus:</strong> ML · Data Analysis · Prediction</p>
-      <a href="https://github.com/DHIKSHIT08/Manganese_AI_Project">Explore repository →</a>
-    </td>
-  </tr>
-</table>
+### [Manganese AI Project](https://github.com/DHIKSHIT08/Manganese_AI_Project)
 
-## `04` — AVIATION & INTELLIGENCE
+Explores manganese prospectivity analysis and production prediction using data analysis, predictive modelling, and interactive visualization.
 
-Exploring how intelligent systems can contribute to aviation-related challenges through:
+**Focus:** Machine learning · Data analysis · Prediction
 
-- Aviation data analysis and visualization
-- Predictive modelling using relevant datasets
-- Intelligent software and automation
-- Data-driven engineering research
+### [JARVIS-AI](https://github.com/DHIKSHIT08/JARVIS-AI)
 
-*These are areas of interest and exploration, not claims of operational aviation experience.*
+A personal AI assistant project exploring conversational interfaces, intelligent assistance, and desktop automation.
 
-## `05` — CURRENT DEVELOPMENT
+**Focus:** AI · Python · Automation
+
+### [AERONEXUS](https://github.com/DHIKSHIT08/AERONEXUS)
+
+An isolated aircraft-systems simulator demo featuring fictional telemetry, virtual controls, and rule-based analysis.
+
+[View the live demo](https://dhikshit08.github.io/AERONEXUS/)
+
+**Focus:** Interactive software · Web development · Simulation
+
+### [Batch1-Exception-Hierarchy](https://github.com/DHIKSHIT08/Batch1-Exception-Hierarchy)
+
+A Java project that explains exception handling and exception hierarchies.
+
+## More Projects
+
+- [spidey-TVA-app](https://github.com/DHIKSHIT08/spidey-TVA-app)
+- [mcu-web-project](https://github.com/DHIKSHIT08/mcu-web-project)
+
+## Current Focus
 
 - Strengthening programming and problem-solving fundamentals
-- Developing and documenting practical AI/ML projects
-- Improving software architecture
+- Building and documenting practical AI/ML projects
+- Improving software design and development skills
+
+---
+
+*AERONEXUS is a fictional educational demo. It does not connect to or control real aircraft, and it does not provide flight or maintenance guidance.*
